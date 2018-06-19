@@ -70,4 +70,4 @@ function nowServing(katzDeli){
   return (`Currently serving ${katzDeli.shift()}.`);
 }
 
-/*
+/*Build a function currentLine that returns the current line*/
