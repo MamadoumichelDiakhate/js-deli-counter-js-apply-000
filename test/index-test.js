@@ -61,4 +61,7 @@ function nowServing(katzDeli){
   while (i < katzDeli.length){
     i++;
   }
+  if (katzDeli.length === 0){
+    
+  }
 }
