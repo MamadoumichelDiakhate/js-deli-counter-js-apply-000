@@ -71,3 +71,4 @@ function nowServing(katzDeli){
 }
 
 /*Build a function currentLine that returns the current line*/
+var line = [];
