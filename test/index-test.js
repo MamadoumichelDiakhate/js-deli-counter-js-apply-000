@@ -52,5 +52,5 @@
   });
 })*/
 var katzDeli = []; //define an empty Array
-
+function takeANumber(katzDeli, name)
 
