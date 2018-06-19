@@ -54,5 +54,6 @@
 var katzDeli = []; //define an empty Array
 function takeANumber(katzDeli, name){
   katzDeli.push(`${name}`);
+  return(`Welcome, ${name}. You are number ${katzDeli.length} in line.`);
 }
 
