@@ -51,6 +51,8 @@
     });
   });
 })*/
+/*Build a function that a new customer will use when entering the deli*/
+
 var katzDeli = []; //define an empty Array
 function takeANumber(katzDeli, name){
   katzDeli.push(`${name}`);
