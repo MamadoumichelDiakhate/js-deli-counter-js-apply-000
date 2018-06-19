@@ -51,4 +51,6 @@
     });
   });
 })*/
-var katzDeli = [];
+var katzDeli = []; //define an empty Array
+
+
