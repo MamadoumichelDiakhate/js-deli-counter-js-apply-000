@@ -56,7 +56,8 @@ function takeANumber(katzDeli, name){
   katzDeli.push(`${name}`);
   return(`Welcome, ${name}. You are number ${katzDeli.length} in line.`);
 }
-/*
+/*Build a function nowServing. This function should return the first person in line and then remove that individual from the line*/
+
 function nowServing(katzDeli){
   let i = 0;
   while (i < katzDeli.length){
@@ -69,3 +70,4 @@ function nowServing(katzDeli){
   return (`Currently serving ${katzDeli.shift()}.`);
 }
 
+/*
